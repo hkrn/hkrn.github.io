@@ -510,6 +510,25 @@
                     "url": "https://github.com/hkrn/ndmf-vrm-exporter/releases/download/1.2.8/com.github.hkrn.ndmf-vrm-exporter-1.2.8.zip",
                     "zipSHA256": "edf2c3c2e7ef3e8461e07e777726b91095ed091fc7472dd110b5129a7ba5c23b",
                     "changelogUrl": "https://github.com/hkrn/ndmf-vrm-exporter/blob/main/CHANGELOG.md"
+                },
+                "1.2.9": {
+                    "name": "com.github.hkrn.ndmf-vrm-exporter",
+                    "displayName": "NDMF VRM Exporter",
+                    "version": "1.2.9",
+                    "unity": "2022.3",
+                    "description": "NDMF Plugin to export the avatar as VRM 1.0 model.",
+                    "author": {
+                        "name": "hkrn",
+                        "url": "https://github.com/hkrn/"
+                    },
+                    "repo": "https://hkrn.github.io/vpm.json",
+                    "vpmDependencies": {
+                        "com.vrchat.avatars": ">=3.7.0",
+                        "nadena.dev.ndmf": ">=1.6.0"
+                    },
+                    "url": "https://github.com/hkrn/ndmf-vrm-exporter/releases/download/1.2.9/com.github.hkrn.ndmf-vrm-exporter-1.2.9.zip",
+                    "zipSHA256": "26991c8dd61a6b4df6056765d66ae9f70e373df8a339d52f6c16995eb335b7fd",
+                    "changelogUrl": "https://github.com/hkrn/ndmf-vrm-exporter/blob/main/CHANGELOG.md"
                 }
             }
         }
